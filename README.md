@@ -18,4 +18,12 @@ Backend Developer & Systems Engineering Student passionate about software archit
 
 ---
 
+### 🧰 Bash & Database Tools
+
+* **[salon-appointment-scheduler](https://github.com/Akisolu/salon-appointment-scheduler)** — Interactive CLI tool built with Bash & PostgreSQL to manage appointments, clients, and services.
+* **[PeriodicBash](https://github.com/Akisolu/PeriodicBash)** — Periodic table element query tool using Bash and relational queries.
+* **[world-cup-database](https://github.com/Akisolu/world-cup-database)** — Bash automated data-population and querying scripts for World Cup stats in PostgreSQL.
+
+---
+
 📫 **How to reach me:** [GitHub Profile](https://github.com/Akisolu)
