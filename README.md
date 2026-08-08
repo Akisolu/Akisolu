@@ -12,7 +12,7 @@ Backend Developer & Systems Engineering Student passionate about software archit
 
 * 🛠️ **[EGC (Fork)](https://github.com/Akisolu/EGC)** — Open-source cross-tool context & memory engine for AI coding agents.
 * ⚡ **[URL-Shortening-Service](https://github.com/Akisolu/URL-Shortening-Service)** — High-performance RESTful API for URL shortening built with Python & SQLite.
-* 🤖 **[agente-de-IA-con-gemma4](https://github.com/Akisolu/agente-de-IA-con-gemma4)** — Local AI agent using Gemma 4 & Ollama with memory and local tool execution.
+* 🤖 **[AI-agent-with-gemma4](https://github.com/Akisolu/AI-agent-with-gemma4)** — Local AI agent using Gemma 4 & Ollama with memory and local tool execution.
 * 📦 **[Redis-Cache-with-PHP](https://github.com/Akisolu/Redis-Cache-with-PHP)** — Lightweight Redis caching integration wrapper for PHP applications.
 * 💬 **[anonymous-feedback](https://github.com/Akisolu/anonymous-feedback)** *(WIP)* — Anonymous feedback management platform with PostgreSQL & Redis.
 
