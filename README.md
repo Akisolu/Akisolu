@@ -3,7 +3,7 @@
 Backend Developer & Systems Engineering Student passionate about software architecture and design, low-level optimizations, and scalable systems.
 
 - 🛠️ **Primary Stack:** Python, PHP, PostgreSQL, Redis, Bash & Linux Administration.
-- 🚀 **Open Source:** Resident Windows Contributor & Tester at **[EGC](https://github.com/Fmarzochi/EGC)** (Hall of Fame `codeQuality`, `Bug Hunter`, `Cross-Platform`) [My contributions](https://fmarzochi.github.io/EGCSite/contributors/Akisolu/).
+- 🚀 **Open Source:** Resident Windows Contributor & Tester at **[EGC](https://github.com/Fmarzochi/EGC)** • [Hall of Fame Profile](https://fmarzochi.github.io/EGCSite/contributors/Akisolu/) (`codeQuality`, `Bug Hunter`, `Cross-Platform`).
 - 🎯 **Current Focus:** Building robust APIs, local AI agents, and high-performance caching layers.
 
 ---
@@ -26,4 +26,27 @@ Backend Developer & Systems Engineering Student passionate about software archit
 
 ---
 
-📫 **How to reach me:** [GitHub Profile](https://github.com/Akisolu)
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+**Databases & Caching**
+<p align="left">
+  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+**Tools & Infrastructure**
+<p align="left">
+  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
