@@ -11,6 +11,7 @@ Backend Developer & Systems Engineering Student passionate about software archit
 ### 📌 Highlighted Projects
 
 * 🛠️ **[EGC (Fork)](https://github.com/Akisolu/EGC)** — Open-source cross-tool context & memory engine for AI coding agents.
+* ⚙️ **[python-cicd-pytest-pipeline](https://github.com/Akisolu/python-cicd-pytest-pipeline)** — Python CLI CI/CD pipeline with pytest testing, PyInstaller cross-builds, and automated GitHub releases
 * ⚡ **[URL-Shortening-Service](https://github.com/Akisolu/URL-Shortening-Service)** — High-performance RESTful API for URL shortening built with Python & SQLite.
 * 🤖 **[AI-agent-with-gemma4](https://github.com/Akisolu/AI-agent-with-gemma4)** — Local AI agent using Gemma 4 & Ollama with memory and local tool execution.
 * 📦 **[Redis-Cache-with-PHP](https://github.com/Akisolu/Redis-Cache-with-PHP)** — Lightweight Redis caching integration wrapper for PHP applications.
